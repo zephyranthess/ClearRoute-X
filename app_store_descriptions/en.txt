@@ -1,0 +1,69 @@
+APP NAME (max 30)
+ClearRoute X
+
+SUBTITLE (max 30)
+Pool route, dosing & invoices
+
+PROMOTIONAL TEXT (max 170; can be changed any time without a new review)
+Run your pool route from your phone: readings, dosing suggestions, photos, service reports and invoices. No account needed. Your data stays on your device.
+
+DESCRIPTION
+ClearRoute X is for people who service swimming pools and want the paperwork done at the pool, not at night.
+
+TODAY, AT A GLANCE
+Today shows only today's stops, one card each: address, a gate code that stays hidden until you press and hold, a dog warning, and Navigate, Call and Text in one tap. Reorder the route by hand or let the app suggest a driving order from where you are.
+
+A STOP, START TO FINISH
+Start a stop and enter your water readings on a big number pad, each one checked against the pool's target range. Get dosing suggestions in the products you actually carry, work through your checklist, add photos and notes, then slide to finish. A service report PDF is ready to send.
+
+CALENDAR
+Month, Day and List views show what every day holds. Move or skip a stop, add a one-off visit, and look back at past visits.
+
+CUSTOMERS AND POOLS
+Keep contacts, access notes, several pools per customer, volumes, targets and a reading history with charts. Archive a customer without losing their history.
+
+INVOICES THAT ADD UP
+Line items, tax, discounts, due dates and partial payments, with a status that follows what has actually been recorded as paid. Create the month's invoices for everyone in one review step, send a PDF by email or the share sheet, and void an invoice instead of losing its number. ClearRoute X is record-keeping and does not process payments.
+
+DOSING IS GUIDANCE
+Suggestions use published pool-care formulas and the strengths you enter for your own products. They are not instructions. Follow the product label, never mix chemicals, retest after dosing, and decide the final dose yourself.
+
+PRIVATE BY DESIGN
+No account, no sign-in, no ads, no analytics. Everything you enter is stored on your device, and we never see it. A report or invoice leaves only when you send it. Addresses are looked up and maps are shown by Apple's services, so those need an internet connection.
+
+MADE FOR EVERY SCREEN
+Light and dark appearance, large text, and a layout that adapts from iPhone to iPad.
+
+Privacy Policy: https://zephyranthess.github.io/ClearRoute-X/privacy.html
+Terms of Use: https://zephyranthess.github.io/ClearRoute-X/terms.html
+Support: https://zephyranthess.github.io/ClearRoute-X/support.html
+
+KEYWORDS (max 100 bytes; words already in the name or subtitle are not repeated)
+chemistry,service,technician,spa,chlorine,pH,stops,schedule,customer,billing,calendar,water,tracker
+
+WHAT'S NEW
+Not used for a first version (App Store Connect does not accept it for version 1.0).
+
+SUPPORT URL
+https://zephyranthess.github.io/ClearRoute-X/support.html
+
+PRIVACY POLICY URL
+https://zephyranthess.github.io/ClearRoute-X/privacy.html
+
+MARKETING URL
+https://zephyranthess.github.io/ClearRoute-X/
+
+COPYRIGHT
+2026 ClearRoute X
+
+CATEGORY
+Primary: Business. Secondary: Productivity.
+
+PRICE
+Free. No in-app purchases, no subscriptions.
+
+AGE RATING
+4+. No objectionable content, no web access, no user-generated content, no purchases.
+
+APP PRIVACY
+Data Not Collected.
