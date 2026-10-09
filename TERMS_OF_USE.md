@@ -15,7 +15,7 @@ Please read these terms before you use ClearRoute X. By installing or using the 
 
 ## 1. Acceptance of these terms
 
-These Terms of Use ("Terms") are an agreement between you and ClearRoute X ("we", "us", "our") for the ClearRoute X mobile app ("the App"). By installing or using the App you confirm that you have read and understood these Terms, that you are old enough and able to enter into this agreement, and that, if you use the App for a business, you have authority to accept the Terms for that business. If you do not agree, do not use the App.
+These Terms of Use ("Terms") are an agreement between you and the developer of ClearRoute X ("we", "us", "our") for the ClearRoute X mobile app ("the App"). By installing or using the App you confirm that you have read and understood these Terms, that you are old enough and able to enter into this agreement, and that, if you use the App for a business, you have authority to accept the Terms for that business. If you do not agree, do not use the App.
 
 
 ## 2. What the App is, and what it is not

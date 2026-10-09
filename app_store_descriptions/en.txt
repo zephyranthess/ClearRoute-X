@@ -54,7 +54,7 @@ MARKETING URL
 https://zephyranthess.github.io/ClearRoute-X/
 
 COPYRIGHT
-2026 ClearRoute X
+2026 Norfa
 
 CATEGORY
 Primary: Business. Secondary: Productivity.

@@ -16,7 +16,7 @@ This policy explains what ClearRoute X does with information. It is short becaus
 
 ## 1. Who we are
 
-ClearRoute X ("we", "us", "our") is an app for people who service swimming pools. It plans the day's route, helps with water chemistry, and makes service reports and invoices. It is published by ClearRoute X.
+ClearRoute X ("we", "us", "our") is an app for people who service swimming pools. It plans the day's route, helps with water chemistry, and makes service reports and invoices. It is published by the developer of ClearRoute X.
 
 For privacy questions, contact us at **support@norfa.fun**.
 
